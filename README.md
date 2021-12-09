@@ -1,11 +1,17 @@
 # ChangeLogTextBased
 A change log for PrisonBreak: the Twine based text game.
 
+### Day 7-Playtest 3/4/5: December 8, 2021
+* Added minor style into project at win and loss passages from playtest feedback.
+* Fixed minor bugs that were found in playtest.
+
 ### Day 6-Playtest 1/2: December 3, 2021
 * Finished day 2 and began playtesting start to finish.
 * Cleaned up a few remaining bugs.
 * Sent out demo versions to my friends for quick playtests.
 * Began playtests
+* Changed some spelling errors pointed out in playtest.
+* Changed some logic and functional error from playtest.
 
 ### Day 5: December 1, 2021
 * Cleaned up most bugs in day 1.
